@@ -1,6 +1,6 @@
 hey i'm sam
 
-I'm an incoming University of Waterloo Mechatronics Engineering student for the Class of 2029, and I'm using GitHub to showcase my projects and their progress here. 
+I'm a University of Waterloo Mechatronics Engineering student for the Class of 2029, and I'm using GitHub to showcase my projects and their progress here. 
 If you have any feedback for any of my projects please contact me! always looking to improve 
 
 
